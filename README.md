@@ -23,42 +23,27 @@
 <a href="https://www.python.org/" target="_blank">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
 </a>
-
-
 <a href="https://www.linux.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
 </a>
-
-
 <a href="https://git-scm.com/" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 </a>
-
 <a href="https://numpy.org/" target="_blank">
 	<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg"></code>
 </a>
-
-
 <a href="https://scikit-learn.org/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"></code>
 </a>
-
-
 <a href="https://keras.io/" target="_blank"><code>
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg"></code>
 </a>
-
-
 <a href="https://pytorch.org/" target="_blank">
     <code><img height="30" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.svg"></code>
 </a>
-
-
 <a href="https://www.tensorflow.org" target="_blank">
     <code><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"></code>
 </a>
-
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"><code>
     <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
 </a>
-
