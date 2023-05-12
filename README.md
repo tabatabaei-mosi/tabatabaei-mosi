@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mostafa</h1>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-tabatabaei-33250519a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQ9xQESneTWqRHa8O8YR4ag%3D%3D)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tabatabaei-mosi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tabatabaei.mosi@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/tabatabaei-mosi?style=social)
 
